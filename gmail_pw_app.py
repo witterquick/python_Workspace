@@ -4,9 +4,9 @@ import ssl
 import smtplib
 
 
-email_sender = 'zanuck22@gmail.com'
+email_sender = 'tempemail@gmail.com'
 email_password = password
-email_receiver = 'gradboi778@gmail.com'
+email_receiver = 'tempemail2@gmail.com'
 subject = 'hello'
 body = """Just saying Hello"""
 
