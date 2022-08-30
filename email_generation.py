@@ -1,5 +1,5 @@
 from email.message import EmailMessage
-from gmail_pw_app import password
+from email_generation import password
 import ssl
 import smtplib
 
