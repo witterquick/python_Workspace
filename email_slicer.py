@@ -16,4 +16,5 @@ def main():
     print("Extension :", extension)
 
 
-main()
+while True:
+    main()
